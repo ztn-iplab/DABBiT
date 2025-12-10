@@ -37,9 +37,21 @@ AAIML 2026.**
 
 ---
 
+---
+
+## 📘 Documentation
+
+Detailed conceptual documentation is available in the `docs/` directory:
+
+- **Concept Drift Taxonomy (One-Pager)**  
+- **Taxonomy PDF (high-resolution)**
+
+More technical documentation will be added as the framework evolves.
+
 ## Getting the Data
 
 Run:
 
 ```bash
 python scripts/fetch_data.py
+
