@@ -1,13 +1,12 @@
-# 🧬 DABBiT – Drift-Adaptive Behavioral Biometrics Framework  
+# DABBiT – Drift-Adaptive Behavioral Biometrics Framework  
 ### Continuous Authentication Under Concept Drift (Keystroke & Mouse Dynamics)
 
 This repository contains Jupyter notebooks, scripts, and documentation supporting **DABBiT**, a drift-adaptive behavioral biometrics framework for continuous authentication in internet banking environments.
 
-> 🔒 **Raw datasets are NOT stored in this repository** due to privacy restrictions.
+> **Raw datasets are NOT stored in this repository** due to privacy restrictions.
 
----
 
-## 📚 Background
+## Background
 
 DABBiT introduces:
 
@@ -25,7 +24,7 @@ AAIML 2026.**
 
 ---
 
-## 📥 Datasets (Official Sources)
+## Datasets (Official Sources)
 
 - **KeystrokeMouse-TZ (our dataset)**  
   https://github.com/ztn-iplab/banking_CA  
@@ -38,7 +37,7 @@ AAIML 2026.**
 
 ---
 
-## 📥 Getting the Data
+## Getting the Data
 
 Run:
 
