@@ -22,7 +22,6 @@ The conceptual taxonomy was formalized in the paper:
 “DABBiT: A Drift-Adaptive Behavioral Biometrics Framework for Continuous Authentication in Tanzanian Internet Banking,”  
 AAIML 2026.**
 
----
 
 ## Datasets (Official Sources)
 
@@ -35,11 +34,8 @@ AAIML 2026.**
 - **DFL Mouse Dataset**  
   https://www.ms.sapientia.ro/~manyi/DFL.html  
 
----
 
----
-
-## 📘 Documentation
+## Documentation
 
 Detailed conceptual documentation is available in the `docs/` directory:
 
