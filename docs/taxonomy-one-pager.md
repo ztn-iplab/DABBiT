@@ -11,9 +11,8 @@ Download the Full Taxonomy (High-Resolution PDF)
 
 [**Taxonomy of Concept Drift in Behavioral Biometrics (PDF)**](Taxonomy_of_Concept_Drift_in_Behavioral_Biometrics.pdf)
 
----
 
-## 🔍 What is Concept Drift in Behavioral Biometrics?
+## What is Concept Drift in Behavioral Biometrics?
 
 Concept drift refers to changes in user behavior over time such that previously learned authentication models become less accurate.  
 In behavioral biometrics (keystroke & mouse), drift arises from:
@@ -25,7 +24,6 @@ In behavioral biometrics (keystroke & mouse), drift arises from:
 
 Understanding the **source** of drift is essential for building adaptive and secure authentication models.
 
----
 
 ## The Drift Taxonomy (Four Major Categories)
 
@@ -61,9 +59,8 @@ Intentional manipulation of biometric signals:
 - Overlay-based UI manipulation  
 - Man-in-the-middle distortion  
 
----
 
-## ⏱️ Temporal Drift Patterns
+## Temporal Drift Patterns
 
 Concept drift may appear in different temporal forms:
 
@@ -74,7 +71,6 @@ Concept drift may appear in different temporal forms:
 
 These forms guide how frequently adaptation should occur.
 
----
 
 ## Taxonomy Diagram
 
