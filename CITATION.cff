@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+title: "DABBiT – Drift-Adaptive Behavioral Biometrics Framework"
+message: "If you use DABBiT or the Concept Drift Taxonomy in your research, please cite the following accepted paper."
+authors:
+  - family-names: Ndalama
+    given-names: Festus Edward
+  - family-names: Mutabazi
+    given-names: Patrick
+  - family-names: Taenaka
+    given-names: Yuzo
+  - family-names: Kadobayashi
+    given-names: Youki
+
+keywords:
+  - behavioral biometrics
+  - concept drift
+  - continuous authentication
+  - drift detection
+  - adaptive learning
+  - internet banking security
+  - Tanzania
+
+
+preferred-citation:
+  type: conference-paper
+  title: "DABBiT: A Drift-Adaptive Behavioral Biometrics Framework for Continuous Authentication in Tanzanian Internet Banking"
+  authors:
+    - family-names: Ndalama
+      given-names: Festus Edward
+    - family-names: Mutabazi
+      given-names: Patrick
+    - family-names: Taenaka
+      given-names: Yuzo
+    - family-names: Kadobayashi
+      given-names: Youki
+  conference-name: "AAIML 2026 (Accepted)"
+  year: 2026
+  status: accepted
+  url: "https://github.com/ztn-iplab/DABBiT"
