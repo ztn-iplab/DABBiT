@@ -9,7 +9,7 @@ Festus Edward Ndalama, Patrick Mutabazi, Yuzo Taenaka, Youki Kadobayashi, "DABBi
 
 Download the Full Taxonomy (High-Resolution PDF)
 
-👉 [**Taxonomy of Concept Drift in Behavioral Biometrics (PDF)**](Taxonomy_of_Concept_Drift_in_Behavioral_Biometrics.pdf)
+[**Taxonomy of Concept Drift in Behavioral Biometrics (PDF)**](Taxonomy_of_Concept_Drift_in_Behavioral_Biometrics.pdf)
 
 ---
 
@@ -27,7 +27,7 @@ Understanding the **source** of drift is essential for building adaptive and sec
 
 ---
 
-## 🧭 The Drift Taxonomy (Four Major Categories)
+## The Drift Taxonomy (Four Major Categories)
 
 ### **1. Cognitive & Behavioral Drift**  
 Changes caused by natural human variability:
@@ -76,10 +76,10 @@ These forms guide how frequently adaptation should occur.
 
 ---
 
-## 🖼️ Taxonomy Diagram
+## Taxonomy Diagram
 
+![Concept Drift Taxonomy](Taxonomy_of_Concept_Drift_in_Behavioral_Biometrics-1.png)
 
-![Concept Drift Taxonomy](taxonomy.png)
 
 
  Maintainer
