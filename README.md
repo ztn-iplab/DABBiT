@@ -12,7 +12,7 @@ DABBiT introduces:
 
 - A **Causal Taxonomy of Concept Drift** for behavioral biometrics  
 - A **drift-aware adaptive authentication pipeline**  
-- An **adversarial simulation layer** (e.g., Herodotus-style humanized malware mimicry)  
+- An **adversarial simulation layer**  
 - Multi-modal fusion: **keystroke + mouse + contextual signals**  
 - Prototype extension toward **federated learning** for distributed banking systems  
 
